@@ -14,8 +14,6 @@ C) **Figure3.R** : R script to generate the barplots of Figure 3.
 
 D) **Figure4.R** : R script to generate all the venn diagrams of Figure 4.
 
-E) **Figure5.R** : R script to generate the bubble plot and nMDS of Figure 5 and for the associated statistical analysis.
+E) **Figure5_6.R** : R script to generate the bubble plot of Figure 5A and all the nMDS of Figure 5B and Figure 6 and for the associated statistical analysis.
 
-F) **Figure6.R** : R script to generate the four nMDS of Figure 6 and for all the associated statistical analysis.
-
-G) **CHNMS_coordinates_all_Sept2022** : Geographical coordinates for all the sampling sites.
+F) **CHNMS_coordinates_all_Sept2022** : Geographical coordinates for all the sampling sites.
