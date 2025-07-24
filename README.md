@@ -3,7 +3,7 @@
 ## Summary
 Code associated with the article titled 'Multi-Tool Marine Metabarcoding Bioassessment for Baselining and Monitoring Species and Communities in Kelp Habitats' published by Maiello et al. in Molecular Ecology Resources - [DOI: 10.1111/1755-0998.70010](https://doi.org/10.1111/1755-0998.70010)
 
-Raw reads data, ngs files for demultiplexing, metadata, MOTU tables and final datasetsat https://doi.org/10.5061/dryad.02v6wwqfv.
+Raw reads data, ngs files for demultiplexing, metadata, MOTU tables and final datasets used for statistical analysis can be accessed at: https://doi.org/10.5061/dryad.02v6wwqfv.
 
 ## Data and file overview
 A) **Figure1.R** : R script to generate the three maps of Figure 1.
